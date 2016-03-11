@@ -1,0 +1,1 @@
+the application is distributed into functions nicely written. first connection is created then datnase created then populated  and then the user enters the city to search which is returned by the Search function.
